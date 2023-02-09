@@ -1,0 +1,35 @@
+id: 285f02bf471942f1a1f913cbea8e88ed
+annotation_type: index
+revision: '00001'
+annotations:
+  a87993ada2a54af7867b874e8f173b0a:
+    base: D492.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 13
+    - title: Preface
+      span:
+        start: 14
+        end: 38
+    - title: Chapters 1-10
+      span:
+        start: 39
+        end: 6064
+    - title: Chapters 11-20
+      span:
+        start: 6065
+        end: 12313
+    - title: Chapters 21-26
+      span:
+        start: 12314
+        end: 17279
+    - title: Colophon
+      span:
+        start: 17280
+        end: 17290
+    - title: Additional verses not in the Pāli edition
+      span:
+        start: 17291
+        end: 17323

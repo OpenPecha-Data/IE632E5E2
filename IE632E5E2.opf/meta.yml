@@ -1,0 +1,16 @@
+id: IE632E5E2
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:37:32.094207
+last_modified: 2023-02-10 00:37:32.094327
+source_metadata:
+  title: Dhammapada
+  language: zh
+bases:
+  D492:
+    base_file: D492.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
